@@ -1,0 +1,25 @@
+:root {
+	/* 
+	*  applied in:
+	* background
+	 */
+	--primary: #009dff;
+	--primary-disabled: #6a0900;
+	/*
+	*  applied in
+	* text border
+	*/
+	--secondary: rgb(255, 255, 255);
+	--secondary-disabled: #fffff;
+	/*
+	* applied in
+	* button 
+	*/
+	--third: #5c87ff;
+	--third-disabled: #ababab;
+	/*
+	* Invite hover
+	*/
+	--o1: #ffffff;
+	--o1-disabled: #ffffff;
+}
